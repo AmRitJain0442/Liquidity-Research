@@ -1,0 +1,3 @@
+requests>=2.31.0
+pathlib
+urllib3>=1.26.0
